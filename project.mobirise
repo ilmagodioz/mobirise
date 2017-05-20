@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "ilmiolavoro.html",
+    "currentPage": "portfolio.html",
     "name": "Mago di Oz",
     "theme": {
       "name": "mobirise3",
@@ -1197,8 +1197,8 @@
               "width": 600,
               "active": true,
               "link": "",
-              "alt": "",
-              "title": "",
+              "alt": "Business",
+              "title": "Business",
               "linkInNewWindow": false
             }
           },
