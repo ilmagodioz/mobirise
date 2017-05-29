@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "portfolio.html",
     "name": "Mago di Oz",
     "theme": {
       "name": "mobirise3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 122,
+    "uniqCompNum": 128,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattami</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "header1",
@@ -182,7 +182,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_name": "footer1",
@@ -240,7 +240,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nTelefono: o11 9455975<br>\nCell: 333 8098235",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
           "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
         }
       ]
@@ -340,7 +340,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattami</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -391,8 +391,8 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTATTAMI",
-          "subtitle": "Sarò felice di aiutarvi in ogni vostra richiesta.",
+          "title": "CONTATTACI",
+          "subtitle": "Saremo felici di aiutarvi in ogni vostra richiesta.",
           "form": {
             "action": "info@edogioriomagodioz.it",
             "alerts": {
@@ -420,7 +420,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT ME</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"socicon socicon-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a>"
         },
         {
           "_styles": {
@@ -443,8 +443,8 @@
             "bgColor": "#2e2e2e",
             "showMeta": true
           },
-          "title": "DOVE SONO",
-          "meta": "Potete venirmi a trovare nel mio studio fotografico a Chieri, in Via Sant'Agostino 2."
+          "title": "DOVE SIAMO",
+          "meta": "Potete venirci a trovare nel nostro studio fotografico a Chieri, in Via Sant'Agostino 2."
         },
         {
           "_tags": [
@@ -489,7 +489,7 @@
             "overlayColor": "#222"
           },
           "text": "SEGUICI",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/117544006185874205418\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -530,7 +530,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nTelefono: o11 9455975<br>\nCell: 333 8098235",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
           "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
         }
       ]
@@ -700,7 +700,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/117544006185874205418\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_styles": {
@@ -791,7 +791,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattami</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -849,7 +849,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nTelefono: o11 9455975<br>\nCell: 333 8098235",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
           "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
         }
       ]
@@ -989,7 +989,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattami</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -1058,7 +1058,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kids-o-600x415.png",
+              "src": "@PROJECT_PATH@/assets/images/weddings-bn-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1074,7 +1074,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kids-ow-600x415.png",
+              "src": "@PROJECT_PATH@/assets/images/kids-bn-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1090,7 +1090,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kids-wo-600x415.png",
+              "src": "@PROJECT_PATH@/assets/images/landscape-bn-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1106,7 +1106,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kids-w-600x415.png",
+              "src": "@PROJECT_PATH@/assets/images/maternity-bn-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1150,6 +1150,25 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "color": "#f8a825",
+              "font-size": "32px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#f8a825",
+              "font-size": "32px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#bcbcbc"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "color": "#bcbcbc"
+            }
+          },
           "_anchor": "features1-1f",
           "_params": {
             "columnsColor": "#2e2e2e",
@@ -1176,7 +1195,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kids-o-600x415.png",
+              "src": "@PROJECT_PATH@/assets/images/engagements-bn-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1192,23 +1211,23 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kids-ow-600x415.png",
+              "src": "@PROJECT_PATH@/assets/images/still-life-bn-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "still_life.html",
               "alt": "Business",
               "title": "Business",
               "linkInNewWindow": false
             }
           },
-          "title2": "BUSINESS",
+          "title2": "STILL LIFE",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kids-wo-600x415.png",
+              "src": "@PROJECT_PATH@/assets/images/portraits-bn-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1224,7 +1243,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kids-w-600x415.png",
+              "src": "@PROJECT_PATH@/assets/images/sports-bn-600x600.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1261,26 +1280,7 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "color": "#f8a825",
-              "font-size": "32px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-title": {
-              "color": "#f8a825",
-              "font-size": "32px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "color": "#bcbcbc"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "color": "#bcbcbc"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -1307,7 +1307,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/117544006185874205418\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -1348,7 +1348,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nTelefono: o11 9455975<br>\nCell: 333 8098235",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
           "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
         }
       ]
@@ -1518,7 +1518,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/117544006185874205418\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_styles": {
@@ -1609,7 +1609,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattami</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -1667,7 +1667,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nTelefono: o11 9455975<br>\nCell: 333 8098235",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
           "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
         }
       ]
@@ -1837,7 +1837,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/117544006185874205418\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_styles": {
@@ -1928,7 +1928,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattami</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -1986,7 +1986,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nTelefono: o11 9455975<br>\nCell: 333 8098235",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
           "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
         }
       ]
@@ -2156,7 +2156,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/117544006185874205418\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_styles": {
@@ -2247,7 +2247,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattami</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -2305,7 +2305,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nTelefono: o11 9455975<br>\nCell: 333 8098235",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
           "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
         }
       ]
@@ -2475,7 +2475,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/117544006185874205418\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_styles": {
@@ -2566,7 +2566,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattami</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -2624,7 +2624,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nTelefono: o11 9455975<br>\nCell: 333 8098235",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
           "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
         }
       ]
@@ -2794,7 +2794,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/117544006185874205418\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_styles": {
@@ -2885,7 +2885,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattami</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -2943,7 +2943,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nTelefono: o11 9455975<br>\nCell: 333 8098235",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
           "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
         }
       ]
@@ -3113,7 +3113,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/117544006185874205418\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_styles": {
@@ -3204,7 +3204,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattami</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -3262,7 +3262,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nTelefono: o11 9455975<br>\nCell: 333 8098235",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
           "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
         }
       ]
@@ -3432,7 +3432,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/117544006185874205418\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_styles": {
@@ -3523,7 +3523,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattami</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -3581,7 +3581,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nTelefono: o11 9455975<br>\nCell: 333 8098235",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
           "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
         }
       ]
@@ -3641,6 +3641,11 @@
             "Theme"
           ],
           "_name": "testimonials2",
+          "_styles": {
+            ".card-footer > div": {
+              "color": "#bcbcbc"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>“its really very amazing app that makes me finish html page in 3 minutes ( that's usually takes more than 1 hours at least from me if i did it from scratch). i hope to have very big library and plugins for this APP thanks again for your nice application”</p>",
@@ -3732,6 +3737,9 @@
             "count": "6",
             "paddingTop": "0",
             "paddingBottom": 3,
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -3741,18 +3749,10 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": false,
-            "showSubtitle": false,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": false
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".card-footer > div": {
-              "color": "#bcbcbc"
-            }
-          }
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_styles": {
@@ -3843,7 +3843,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattami</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -3887,7 +3887,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/117544006185874205418\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -3928,7 +3928,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nTelefono: o11 9455975<br>\nCell: 333 8098235",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
           "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
         }
       ]
@@ -4043,6 +4043,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#bcbcbc"
+            }
+          },
           "_anchor": "msg-box5-33",
           "_params": {
             "imageSize": "40",
@@ -4089,12 +4094,7 @@
           },
           "title": "SOLID COLOR INTRO WITH IMAGE",
           "text": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. <br>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. <br>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#bcbcbc"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
@@ -4243,7 +4243,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattami</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -4287,7 +4287,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/117544006185874205418\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -4328,7 +4328,7 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nTelefono: o11 9455975<br>\nCell: 333 8098235",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
           "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
         }
       ]
@@ -4527,7 +4527,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"business.html\">Business</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattami</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
         },
         {
           "_name": "footer1",
@@ -4571,7 +4571,7 @@
             "overlayColor": "#222"
           },
           "text": "",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/117544006185874205418\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
           "_tags": [
@@ -4612,7 +4612,326 @@
             }
           },
           "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
-          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nTelefono: o11 9455975<br>\nCell: 333 8098235",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
+          "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
+        }
+      ]
+    },
+    "still_life.html": {
+      "settings": {
+        "title": "Still Life",
+        "meta_descr": "still life"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "48px",
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-3e",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "STILL LIFE",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery3",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 1,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#2e2e2e",
+            "filterBgColor": true,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery3-3f",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-3g",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222"
+          },
+          "text": "",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/edo_giorio\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://it-it.facebook.com/ILMAGODIOZCHIERI/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://www.instagram.com/edogiorio/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.9rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.975rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            }
+          },
+          "_name": "menu",
+          "_anchor": "menu-3h",
+          "_params": {
+            "bgColor": "#2e2e2e",
+            "fontSize": "0.9",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/magodioz-logo-201x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">ABOUT</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"chisono.html\">Chi sono</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"ilmiolavoro.html\">Il mio lavoro</a></div></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"portfolio.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\" target=\"_blank\">PORTFOLIO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"wedding.html\">Wedding</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"maternity.html\">Maternity</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"kids.html\">Kids</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"landscape.html\">Landscape</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"engagements.html\">Engagement</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"still_life.html\">Still Life</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"sports.html\">Sports<br></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"portraits.html\">Portraits</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">INFO</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"faq.html\">FAQ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"contatti.html\">Contattaci</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\"></a></li>"
+        },
+        {
+          "_name": "footer1",
+          "_anchor": "footer1-3i",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Edoardo Giorio Magodioz"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_styles": {
+            "P": {
+              "color": "#c0a375"
+            }
+          },
+          "_anchor": "contacts1-3j",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "width": 128
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "contact-form",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": 0,
+              "active": true
+            }
+          },
+          "text1": "<font color=\"#7c7c7c\" face=\"Montserrat, sans-serif\" size=\"3\"><span style=\"letter-spacing: -1px; line-height: 20px;\"><b>Indirizzo</b></span></font><br>\nEdoardo Giorio<br>Studio Fotografico<br>Via Sant'Agostino 2<br>Chieri (To) - 10023<br>Italy",
+          "text2": "<strong>Contatti</strong><br>\nEmail: info@edogioriomagodioz.it<br>\nCell: 380 6906665",
           "text3": "<p><strong>Links</strong><br>E<a href=\"https://www.shutterstock.com/g/Edo+Giorio\" target=\"_blank\">dogiorio on Shutterstock</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><a href=\"https://500px.com/edogiorio\" target=\"_blank\">Edogiorio on 500px</a></p>"
         }
       ]
