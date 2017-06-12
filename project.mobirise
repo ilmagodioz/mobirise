@@ -155,7 +155,7 @@
                 "showText": true,
                 "text": "Mago di Oz è passione, è amore per il lavoro che facciamo. La nostra filosofia è quella di essere sempre a disposizione dei nostri clienti per dare forma ai loro sogni con le nostre fotografie, le nostre riprese video e i nostri lavori in campo multimediale.",
                 "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">PORTFOLIO</a> "
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">PORTFOLIO</a> "
               },
               {
                 "active": false,
