@@ -189,22 +189,8 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">PORTFOLIO</a> "
               },
               {
-                "active": false,
-                "image": "@PROJECT_PATH@/assets/images/il-mago-di-oz-67.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "overlay": true,
-                "contentAlign": "center",
-                "showTitle": true,
-                "title": "IL MAGO DI OZ",
-                "showText": true,
-                "text": "Mago di Oz è passione, è amore per il lavoro che facciamo. <br>La nostra filosofia è quella di essere sempre a disposizione dei nostri clienti per dare forma ai loro sogni con le nostre fotografie, le nostre riprese video e i nostri lavori in campo multimediale.",
-                "showButtons": true,
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"portfolio.html\" data-toolbar=\"-mbrBtnMove\">PORTFOLIO</a> "
-              },
-              {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/il-mago-di-oz-63.jpg",
+                "image": "@PROJECT_PATH@/assets/images/il-mago-di-oz-67.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
